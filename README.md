@@ -5,8 +5,7 @@ This Repo is for educational purpose
 # Git basic cmd:
 | Git task	    | Notes         | Git commands |
 | ------------- |:-------------:| ------------:|
-|Tell Git who you are      | Configure the author name and email address to be used with your commits.
-Note that Git strips some characters (for example trailing periods) from user.name. | git config --global user.name "Sam Smith"
+|Tell Git who you are      | Configure the author name and email address to be used with your commits. Note that Git strips some characters (for example trailing periods) from user.name. | git config --global user.name "Sam Smith"
 git config --global user.email sam@example.com        |
 |Check out a repository     | Create a working copy of a local repository:      |   git clone /path/to/repository        |
 | Add files | Add one or more files to staging (index):      |  git add <filename> or git add *     |
